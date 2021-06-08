@@ -6,7 +6,7 @@
     "name": "Confluence Frontend - Ecosystem",
     "url": "https://hello.atlassian.net/wiki/spaces/CCECO/overview"
   },
-  "baseUrl": "https://raw.githubusercontent.com/AlexHHsiao/third-app/main",
+  "baseUrl": "https://cc-connect-test-ap-methods.services.atlassian.com",
   "links": {
     "self": "https://raw.githubusercontent.com/AlexHHsiao/third-app/main/test.json",
     "homepage": "https://raw.githubusercontent.com/AlexHHsiao/third-app/main/test.json"
