@@ -8,8 +8,8 @@
   },
   "baseUrl": "https://cc-connect-test-ap-methods.services.atlassian.com",
   "links": {
-    "self": "https://raw.githubusercontent.com/AlexHHsiao/third-app/main/test.json",
-    "homepage": "https://raw.githubusercontent.com/AlexHHsiao/third-app/main/test.json"
+    "self": "https://cc-connect-test-ap-methods.services.atlassian.com/atlassian-connect.json",
+    "homepage": "https://cc-connect-test-ap-methods.services.atlassian.com/atlassian-connect.json"
   },
   "authentication": {
     "type": "jwt"
